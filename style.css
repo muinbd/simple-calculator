@@ -1,0 +1,22 @@
+.container {
+    height: 360px;
+    width: 280px;
+    background-color: grey;
+}
+
+.main-display {
+    text-align: right;
+    font-size: 20px;
+    margin-top: 20px;
+    width: 240px;
+}
+
+.btn {
+    margin: 5px;
+    min-width: 50px;
+    font-size: 18px;
+}
+
+.last {
+    width: 110px;
+}
